@@ -1,4 +1,4 @@
-Folgende Optionen besitzt der der Project Zomboid Manager
+Folgende Optionen besitzt  der Project Zomboid Manager
 
 
 - Perks Leveln bsp Tischerlei / Kochen
