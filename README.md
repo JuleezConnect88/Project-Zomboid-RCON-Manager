@@ -12,5 +12,4 @@ Folgende Optionen besitzt  der Project Zomboid Manager
 
 Weitere updates und Funnktionen sind geplant. Work in Progress!
 
-[src="https://i.ibb.co/mTGz7RS/Bild-2024-10-22-155201578.png" alt="Bild-2024-10-22-155201578" border="0"></a>](https://ibb.co/LR8pf0v)
-  
+<a href="https://ibb.co/LR8pf0v"><img src="https://i.ibb.co/mTGz7RS/Bild-2024-10-22-155201578.png" alt="Bild-2024-10-22-155201578" border="0" /></a>
