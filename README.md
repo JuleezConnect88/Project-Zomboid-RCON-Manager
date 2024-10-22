@@ -10,7 +10,8 @@ Folgende Optionen besitzt  der Project Zomboid Manager
 - einen Spieler vom Server Kicken
 - Start/ Stop Regen
 
-Weitere updates und Funnktionen sind geplant. Work in Progress!
+Weitere updates und Funktionen sind geplant. Work in Progress!
+
 Zukunftupdates:
 
 - Spieler bannen
